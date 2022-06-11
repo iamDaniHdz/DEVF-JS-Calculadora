@@ -15,3 +15,7 @@ Página web desplegada: [Calculadora][calculadora]
 [calculadora]: https://iamdanihdz.github.io/DEVF-JS-Calculadora/
 
 <img src="https://github.com/iamDaniHdz/DEVF-JS-Calculadora/blob/master/assets/calculadora.png">
+
+[Regresar al menú de prácticas][practicas]
+
+[practicas]: https://github.com/iamDaniHdz/DEVF-Intro-JavaScript/tree/master/practicas
